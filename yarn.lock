@@ -3340,9 +3340,9 @@ mimic-fn@^1.0.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/mimic-fn/-/mimic-fn-1.2.0.tgz#820c86a39334640e99516928bd03fca88057d022"
 
-mini.css@^2.3.7:
-  version "2.3.7"
-  resolved "https://registry.yarnpkg.com/mini.css/-/mini.css-2.3.7.tgz#1fd033797ee456c8075fe8048271f35fb202abe5"
+mini.css@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/mini.css/-/mini.css-3.0.1.tgz#f6236e99997bbd19484d5655d087ec96b887af68"
 
 "minimatch@2 || 3", minimatch@^3.0.2, minimatch@^3.0.3, minimatch@^3.0.4, minimatch@~3.0.2:
   version "3.0.4"
