@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "babel-preset-env": "^1.6.1",
-    "chalk": "^2.4.1",
+    "chalk": "^3.0.0",
     "fs-extra": "^6.0.0",
     "html-minifier": "^3.5.15",
     "jest": "^23.1.0",
