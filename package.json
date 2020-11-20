@@ -10,7 +10,7 @@
     "mini.css": "^2.3.7",
     "node-sass": "^4.9.0",
     "octicons": "^7.2.0",
-    "prettier": "^1.12.1",
+    "prettier": "^2.2.0",
     "prismjs": "^1.14.0",
     "rollup": "^0.58.2",
     "rollup-plugin-babel": "^3.0.4",
